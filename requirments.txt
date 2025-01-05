@@ -1,0 +1,9 @@
+joblib
+pandas
+scikit-learn
+scipy
+numpy
+onnxruntime
+nltk
+opencv-python
+keras
